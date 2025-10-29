@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // test komen git sekian terimakasih
+=======
+>>>>>>> 30862e50be49c442a317349aaf55a877e925a007
 package main
 
 import "fmt"
